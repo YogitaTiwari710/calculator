@@ -1,0 +1,37 @@
+*{
+    margin:0;
+}
+h1{
+    font-size:2rem;
+    margin:50px;
+}
+input{
+    height:100px;
+    width:100px;
+    font-size:2rem;
+    border-radius:20px;
+}
+#valeql{
+    height:205px;
+    background-color: darkgray;
+}
+.num{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: white;
+}
+.oper{
+    background-color: rgba(169, 169, 169, 0.486);
+}
+#res{
+    border:2px solid rgb(20, 20, 20);
+    height:50px;
+    font-size:2rem;
+    border-radius:20px;
+}
+table{
+    margin-top:50px;
+}
+input:hover{
+    border:5px solid whitesmoke;
+}
+
